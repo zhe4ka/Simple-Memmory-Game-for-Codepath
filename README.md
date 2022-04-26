@@ -56,11 +56,6 @@ appear that I'm lost, something that wasn't listed as optional feuature. I would
 
 
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.loom.com/share/e313a3de172347e6bf77d38e811796b0)
-
-
 ## License
 
     Copyright [Evgeniya Titkova]
